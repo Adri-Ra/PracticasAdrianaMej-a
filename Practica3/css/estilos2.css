@@ -1,0 +1,11 @@
+body{
+    background-image: url(../img/plumas.jpg);
+    background-size: 100px;
+    background-repeat: no-repeat;
+    background-position: top right;
+}
+
+p{
+    margin-right: 500px;
+    font-size: 20px;
+}
