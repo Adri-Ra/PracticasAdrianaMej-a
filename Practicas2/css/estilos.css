@@ -8,3 +8,14 @@ p{
 h1, p{ 
     text-align: center;
 }
+
+img{
+    margin-left: 40%;
+}
+.cita{
+    font-style: italic;
+}
+
+#autor{
+    color: brown;
+}
